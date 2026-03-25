@@ -1,3 +1,5 @@
+#Apply the frequency domain to the image high pass and low pass frequency domain . 
+
 # IMPORTING THE LIBRARIES
 import cv2
 import numpy as np
