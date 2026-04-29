@@ -1,7 +1,7 @@
 # Image Processing & Computer Vision - Five Mini Projects
 
 **Course:** Image Processing & Computer Vision  
-**Student Name:** Priyanhu Rajput 
+**Student Name:** Priyanshu Rajput 
 **Roll No:** 2301010164
 **Date:** April 29, 2026  
 
